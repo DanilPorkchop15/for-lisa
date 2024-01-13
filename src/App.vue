@@ -80,7 +80,7 @@ html {
   rotate: 180deg;
 }
 #lisa {
-  height: 10vh;
+  height: 100px;
   background-image: url("./assets/lisa.png");
   background-size: cover;
   width: 60px;
